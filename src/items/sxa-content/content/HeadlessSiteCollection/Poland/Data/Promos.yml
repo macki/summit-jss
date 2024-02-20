@@ -1,0 +1,13 @@
+﻿---
+ID: "2927c230-bb36-44fd-b513-4e90aa771f67"
+Parent: "20ff786f-d36c-442b-a1ac-79b0e772df34"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/HeadlessSiteCollection/Poland/Data/Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac2dec1-10e9-4076-9fd8-1c3556104500"

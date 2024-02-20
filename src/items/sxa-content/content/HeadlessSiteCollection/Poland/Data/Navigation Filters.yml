@@ -1,0 +1,13 @@
+﻿---
+ID: "425dd92f-054f-47a9-b302-644464e2415b"
+Parent: "20ff786f-d36c-442b-a1ac-79b0e772df34"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/HeadlessSiteCollection/Poland/Data/Navigation Filters
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "696431b4-2ee4-4d6a-85be-5844ca53462b"

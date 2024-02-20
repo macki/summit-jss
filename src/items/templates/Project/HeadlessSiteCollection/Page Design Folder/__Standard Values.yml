@@ -1,0 +1,19 @@
+﻿---
+ID: "bbe1b74f-c02e-4fc7-a80b-59e776cfe003"
+Parent: "90948fba-60e1-426f-a2c7-f18fbb6edb78"
+Template: "90948fba-60e1-426f-a2c7-f18fbb6edb78"
+Path: /sitecore/templates/Project/HeadlessSiteCollection/Page Design Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {90948FBA-60E1-426F-A2C7-F18FBB6EDB78}
+    {1105B8F8-1E00-426B-BF1F-C840742D827B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b435660-fb3f-45dc-b90e-e356dafe5f35"

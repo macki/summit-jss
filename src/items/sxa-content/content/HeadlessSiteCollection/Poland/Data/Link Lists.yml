@@ -1,0 +1,13 @@
+﻿---
+ID: "9d72fc19-2ef9-4480-b3df-54b9a0747e45"
+Parent: "20ff786f-d36c-442b-a1ac-79b0e772df34"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/HeadlessSiteCollection/Poland/Data/Link Lists
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f3a25d5-53f6-4139-bbe0-87a6ebc7349b"

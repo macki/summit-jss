@@ -1,0 +1,23 @@
+﻿---
+ID: "f098fc97-7fa6-4f08-85b1-17e9e8c4a46d"
+Parent: "f878c728-7cc1-48e1-9e7e-82310a39bb2b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/HeadlessSiteCollection/Partial Designs
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_selection.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{79C9FA01-5F6A-48B2-B459-05BBAA826A9D}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{B9DD5688-A255-4DBB-A31E-58B157F0CFCE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd36bf97-5bf1-4adc-877a-a69cf6f0bd10"

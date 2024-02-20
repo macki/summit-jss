@@ -1,0 +1,18 @@
+﻿---
+ID: "4b28c281-f056-4dff-b0c5-39d04c9c8886"
+Parent: "96031fe9-df09-4167-af91-832a1e17f3ad"
+Template: "b5fa9079-6245-47db-921f-662feee71424"
+Path: /sitecore/content/HeadlessSiteCollection/Poland/Presentation/Page Designs
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1da4d683-f31c-47b3-92e6-9c2a9353763d"

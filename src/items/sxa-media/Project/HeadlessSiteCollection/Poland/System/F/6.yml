@@ -1,0 +1,13 @@
+﻿---
+ID: "8ec4235f-955f-4443-9aa4-e3a97ec3a722"
+Parent: "f7a19b42-62b4-4ad5-807e-56217e0e454d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/HeadlessSiteCollection/Poland/System/F/6
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e7bb50d-ddee-4e02-b1da-9661e905c5cf"

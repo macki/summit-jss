@@ -1,0 +1,13 @@
+﻿---
+ID: "f2e8d27a-ab18-4dea-bbba-83248b534929"
+Parent: "19c25fff-c198-4d72-b47f-efaa1853abb2"
+Template: "19c25fff-c198-4d72-b47f-efaa1853abb2"
+Path: /sitecore/templates/Project/HeadlessSiteCollection/JSS Settings/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f803a70a-8ad0-4fca-b07f-5fbb283a48ed"

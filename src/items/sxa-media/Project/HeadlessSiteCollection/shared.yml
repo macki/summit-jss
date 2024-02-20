@@ -1,0 +1,13 @@
+﻿---
+ID: "18cd30f1-a032-430f-b435-f672615276ba"
+Parent: "3b4bba5b-6b70-46d8-aa64-6315b051426b"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/HeadlessSiteCollection/shared
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f97266e-f421-4156-ae3b-0a1aa020564d"

@@ -1,0 +1,28 @@
+﻿---
+ID: "f6fa8f35-29b9-4201-a1ef-3d02359e8f89"
+Parent: "bcad4c97-b8b8-40b9-8bdf-48ffc29e3d05"
+Template: "167c1d6c-ca48-4cab-b7fd-6352b91ef489"
+Path: /sitecore/content/HeadlessSiteCollection/Poland/Home
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{31AA1FEB-4D65-4E2C-B909-39329FCB8315}" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Poland
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77ab8b56-85fc-407c-bea3-80650ff5a1f7"
+    - ID: "da845c32-8d4d-445a-a22b-54894b63ac6b"
+      Hint: Title
+      Value: Poland

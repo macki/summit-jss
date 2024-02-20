@@ -1,0 +1,21 @@
+﻿---
+ID: "dfba04b4-44e9-4375-8778-9e80f9cc9d56"
+Parent: "772f3c86-e0ed-44fa-8866-5a5c73a7b64c"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/HeadlessSiteCollection/Poland/Presentation/Headless Variants/Promo
+BranchID: "37229eac-e94c-4507-b543-6cb1f31294e4"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_dialog.png
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{63F9B1F7-5D78-4053-8480-70874BAF0DC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4902938-ae62-4e02-9ee4-0bafe81fdbd0"

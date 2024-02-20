@@ -1,0 +1,13 @@
+﻿---
+ID: "4747d855-12fe-490d-a2eb-231745db1313"
+Parent: "20ff786f-d36c-442b-a1ac-79b0e772df34"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: /sitecore/content/HeadlessSiteCollection/Poland/Data/Tags
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ffc7020-e5d3-45f0-b68c-a5ba0e335445"

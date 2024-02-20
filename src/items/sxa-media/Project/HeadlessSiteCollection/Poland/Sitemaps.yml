@@ -1,0 +1,13 @@
+﻿---
+ID: "770b03c7-7310-4749-84e2-29e8c717a46b"
+Parent: "aeaa983d-e20e-4262-b84c-f09b7670a65a"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/HeadlessSiteCollection/Poland/Sitemaps
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ee35a9d-d452-4f62-ac78-1e2a79ccad66"
