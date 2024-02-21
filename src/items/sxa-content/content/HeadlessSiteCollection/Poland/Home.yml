@@ -3,7 +3,6 @@ ID: "f6fa8f35-29b9-4201-a1ef-3d02359e8f89"
 Parent: "bcad4c97-b8b8-40b9-8bdf-48ffc29e3d05"
 Template: "167c1d6c-ca48-4cab-b7fd-6352b91ef489"
 Path: /sitecore/content/HeadlessSiteCollection/Poland/Home
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
@@ -17,12 +16,29 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0347B12B-B849-44BF-9097-728D2592E2C8}"
+              s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+              s:par="ComponentName=Promo%20With%20Benefits&amp;ComponentConfiguration&amp;LibraryId=1Kmh1uAg1Hg8GpKoZhgPGT&amp;ComponentId=ngZjAm7L0B&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=8OX2691bkE5F5Jk&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Promo%20With%20Benefits&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-header" />
+          </d>
+        </r>
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Poland
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "77ab8b56-85fc-407c-bea3-80650ff5a1f7"
+      Value: "2a82a2a3-ddf2-4c66-9d79-f28f149cf68a"
     - ID: "da845c32-8d4d-445a-a22b-54894b63ac6b"
       Hint: Title
       Value: Poland

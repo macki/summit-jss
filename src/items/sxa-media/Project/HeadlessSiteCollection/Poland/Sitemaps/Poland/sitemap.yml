@@ -9,11 +9,11 @@ SharedFields:
   Value: People/32x32/cube_molecule.png
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "adc06207-0f7e-4aaf-a1b2-cadaedc9ee0b"
-  Value: 
+  BlobID: "1aafc318-cd9f-4ebb-aed3-2c14819594c9"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8dXJsc2V0IHhtbG5zOnhodG1sPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiB4bWxucz0iaHR0cDovL3d3dy5zaXRlbWFwcy5vcmcvc2NoZW1hcy9zaXRlbWFwLzAuOSI+DQogIDx1cmw+DQogICAgPGxvYz5odHRwczovL3htYy1kZW1vcG9ydGFsMS1kZW1vNDY4MzJoaDg0ODYtZGVmYXVsdC5zaXRlY29yZWNsb3VkLmlvLzwvbG9jPg0KICAgIDxsYXN0bW9kPjIwMjQtMDItMjE8L2xhc3Rtb2Q+DQogICAgPGNoYW5nZWZyZXE+ZGFpbHk8L2NoYW5nZWZyZXE+DQogICAgPHByaW9yaXR5PjAuNTwvcHJpb3JpdHk+DQogIDwvdXJsPg0KPC91cmxzZXQ+
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
-  Value: 0
+  Value: 372
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: text/xml
@@ -38,7 +38,7 @@ Languages:
       Value: sitemap
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "81f56a74-0176-4ceb-9d55-5ac80dac9d93"
+      Value: "5b80addb-2950-4a89-9e69-45bcf7a35d15"
     - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
       Hint: Description
       Value: Sitecore Experience Accelelator sitemap file
