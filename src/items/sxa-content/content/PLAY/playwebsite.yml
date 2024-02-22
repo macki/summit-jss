@@ -27,6 +27,7 @@ SharedFields:
   Value: |
     {381BE1C1-7B09-4B7A-8B67-F7CE59FDE89C}
     {381BE1C1-7B09-4B7A-8B67-F7CE59FDE89C}
+    {381BE1C1-7B09-4B7A-8B67-F7CE59FDE89C}
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
   Value: "{F9A560F3-BD85-4779-90F9-DA0044F8BFA7}"
@@ -53,4 +54,4 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "abfc2f2d-96d6-4243-ba11-fc66a873f4fd"
+      Value: "b750f7bd-8b3d-4ad3-9626-b615f19bc624"

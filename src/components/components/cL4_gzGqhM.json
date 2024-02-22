@@ -1,0 +1,138 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "IW1fSdBW8X",
+    "componentId": "cL4_gzGqhM",
+    "name": "Name (1)",
+    "description": "",
+    "status": "published",
+    "orderIdx": "07gPs",
+    "revision": 0,
+    "model": "",
+    "view": "<section class=\"-grid--custom\"></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-02-22T08:04:23.311Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-02-22T08:04:28.341Z",
+    "modifiedBy": {
+      "id": "64a7cc977d88c88f0581a2d1",
+      "name": "lmacura@softserveinc.com",
+      "givenName": "Lukasz",
+      "familyName": "Macura",
+      "email": "lmacura@softserveinc.com",
+      "picture": "https://s.gravatar.com/avatar/ab4429bc64760a15366e442d403403c8?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Flm.png",
+      "nickname": "lmacura"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "IW1fSdBW8X",
+    "componentId": "cL4_gzGqhM",
+    "name": "Name (1)",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "07gPs",
+    "revision": 0,
+    "model": "",
+    "view": "<section class=\"-grid--custom\"></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-02-22T08:04:23.311Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-02-22T08:04:28.341Z",
+    "modifiedBy": {
+      "id": "64a7cc977d88c88f0581a2d1",
+      "name": "lmacura@softserveinc.com",
+      "givenName": "Lukasz",
+      "familyName": "Macura",
+      "email": "lmacura@softserveinc.com",
+      "picture": "https://s.gravatar.com/avatar/ab4429bc64760a15366e442d403403c8?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Flm.png",
+      "nickname": "lmacura"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "IW1fSdBW8X",
+    "componentId": "cL4_gzGqhM",
+    "name": "Name (1)",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "07gPs",
+    "revision": 0,
+    "model": "",
+    "view": "<section class=\"-grid--custom\"></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-02-22T08:04:23.311Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-02-22T08:04:28.341Z",
+    "modifiedBy": {
+      "id": "64a7cc977d88c88f0581a2d1",
+      "name": "lmacura@softserveinc.com",
+      "givenName": "Lukasz",
+      "familyName": "Macura",
+      "email": "lmacura@softserveinc.com",
+      "picture": "https://s.gravatar.com/avatar/ab4429bc64760a15366e442d403403c8?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Flm.png",
+      "nickname": "lmacura"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "oD_fPSzREB",
+    "componentId": "cL4_gzGqhM",
+    "name": "Name",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "03qKK",
+    "revision": 4,
+    "model": "",
+    "view": "<style data-format-version=\"29\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: OJDwuMyHJO */ .-grid--custom[data-instance-id=\"OJDwuMyHJO\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"OJDwuMyHJO\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 7; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } .-grid--custom[data-instance-id=\"OJDwuMyHJO\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 7; grid-column-end: 11; grid-row: 2; grid-row-end: 5; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"OJDwuMyHJO\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":7},\"order\":0},{\"from\":{\"row\":2,\"column\":7},\"to\":{\"row\":5,\"column\":11},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"OJDwuMyHJO\"><feaas-component cdn=\"https://feaas.blob.core.windows.net\" class=\"-component\" component=\"AopQJ8Q0yN\" data-embed-title=\"Countdown Banner\" library=\"3ocFYSNyYbRxcjzVq0qeXM\" revision=\"staged\"></feaas-component><span class=\"-inline--eyebrow\">Inline elemsadasd asd asd ent</span></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-02-22T08:04:09.87Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-02-22T08:05:05.202Z",
+    "modifiedBy": {
+      "id": "64a7cc977d88c88f0581a2d1",
+      "name": "lmacura@softserveinc.com",
+      "givenName": "Lukasz",
+      "familyName": "Macura",
+      "email": "lmacura@softserveinc.com",
+      "picture": "https://s.gravatar.com/avatar/ab4429bc64760a15366e442d403403c8?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Flm.png",
+      "nickname": "lmacura"
+    }
+  }
+]

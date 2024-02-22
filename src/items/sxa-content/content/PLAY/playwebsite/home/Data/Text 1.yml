@@ -1,0 +1,19 @@
+﻿---
+ID: "a5c99c50-5b28-49d3-a84d-960c0c2966eb"
+Parent: "99536ff1-02bf-5b2e-a94a-1bbba4cf50fa"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/PLAY/playwebsite/home/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: <p>dfasfsd fdsf sdf dsf&nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ca939e6-9ceb-48a7-b35f-eb9088351284"
