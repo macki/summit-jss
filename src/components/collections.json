@@ -222,19 +222,7 @@
           "givenName": "Lukasz",
           "familyName": "Macura"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "zru_BojgJX",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-02-22T07:47:46.004Z",
-            "modifiedAt": "2024-02-22T07:47:46.004Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -306,12 +294,12 @@
         "status": "changed",
         "versionCount": 3,
         "stagedVersionCount": 3,
-        "embeddableVersionCount": 2,
+        "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-06-08T11:36:57.759Z",
         "stagedAt": "2023-06-08T14:27:31.972Z",
-        "publishedAt": "2023-06-08T14:27:31.972Z",
-        "modifiedAt": "2024-02-22T08:03:41.236Z",
+        "publishedAt": "2023-06-08T14:27:31.971Z",
+        "modifiedAt": "2024-02-22T08:03:41.238Z",
         "modifiedBy": {
           "id": "64a7cc977d88c88f0581a2d1",
           "name": "lmacura@softserveinc.com",
@@ -321,19 +309,7 @@
           "givenName": "Lukasz",
           "familyName": "Macura"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "bkpRNHFB2v",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-02-22T08:03:40.886Z",
-            "modifiedAt": "2024-02-22T08:03:40.886Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -469,19 +445,7 @@
           "givenName": "Lukasz",
           "familyName": "Macura"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "cL4_gzGqhM",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-02-22T08:04:09.656Z",
-            "modifiedAt": "2024-02-22T08:04:09.656Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }
